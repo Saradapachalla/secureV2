@@ -1,9 +1,14 @@
-# secureV2
+SecureV2
+========
+
 Secure V2 Gophish phishing tool 
 
 Steps to start - 
-Coming soon! 
-
+1. Being in terminal window create a working directory and run `git clone https://github.com/Saradapachalla/secureV2`
+2. cd to `secureV2` root folder 
+3. Run `./gophish` 
+4. Once the application starts running open a browser window and copy url `https://127.0.0.1:3333` 
+5. You will see login page, enter login credentials of admin. 
 
 Gophish
 =======
